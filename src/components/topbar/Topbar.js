@@ -4,10 +4,12 @@ import { Search, Person, Chat, Notifications } from "@mui/icons-material" ;
 export default function Topbar() {
   return (
     <div className="topbarContainer">
+
+
       <div className="topbarLeft">
-        <span className="logo">Lamasocial</span>
+        <span className="logo">Metasocial</span>
       </div>
-      <div className="topbarCenter">
+       <div className="topbarCenter">
         <div className="searchbar">
           <Search className="searchIcon" />
           <input
