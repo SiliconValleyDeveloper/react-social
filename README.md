@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <p align="center">
-  <img width="600" src="https://i.pinimg.com/564x/05/2b/c8/052bc89c35951454949e70810e4b128b.jpg">
+  <img src="https://i.pinimg.com/564x/05/2b/c8/052bc89c35951454949e70810e4b128b.jpg">
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
